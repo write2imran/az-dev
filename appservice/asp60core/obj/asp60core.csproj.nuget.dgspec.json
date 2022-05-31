@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\_0All\\_CodeShode\\donet\\az-dev\\asp60core\\asp60core.csproj": {}
+  },
+  "projects": {
+    "E:\\_0All\\_CodeShode\\donet\\az-dev\\asp60core\\asp60core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\_0All\\_CodeShode\\donet\\az-dev\\asp60core\\asp60core.csproj",
+        "projectName": "asp60core",
+        "projectPath": "E:\\_0All\\_CodeShode\\donet\\az-dev\\asp60core\\asp60core.csproj",
+        "packagesPath": "C:\\Users\\Imran Rauf\\.nuget\\packages\\",
+        "outputPath": "E:\\_0All\\_CodeShode\\donet\\az-dev\\asp60core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Imran Rauf\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
